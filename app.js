@@ -20,7 +20,7 @@ function adicionarAmigos()
 
         listaAmigos.innerHTML = '';
 
-        nomesAmigos.forEach(function(amigo)
+        nomesAmigos.forEach(function(nome)
         {
             const li = document.createElement('li');
             listaAmigos.appendChild(li); 
