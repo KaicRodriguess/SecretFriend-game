@@ -1,6 +1,6 @@
 let nomesAmigos = [];
 
-function adicionarAmigos()
+function adicionarAmigo()
 {
     const nome = document.getElementById("amigo");
     if(nome === " ")
