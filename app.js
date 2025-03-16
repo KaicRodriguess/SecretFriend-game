@@ -27,7 +27,7 @@ function adicionarAmigo()
         });
     }
 
-    function sorterAmigo()
+    function sortearAmigo()
     {
         if(nomesAmigos.length === 0)
         {
